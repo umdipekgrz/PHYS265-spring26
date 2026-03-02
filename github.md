@@ -62,30 +62,30 @@ for power users with fast fingers.
    ideally somewhere in your personal class folder for PHYS265. Click on CONTINUE, as this potentially allows you
    to merge in updates from the **upstream**. 
 
-5. Modify the NAME file, and complete it by puting your name in it. You can do this from your JDL app, or
-   any native operating system tool. Even emacs.
+5. Copy the NAME.orig file to NAME.txt, and edit it by puting your name in it.
+   You can do this from your JDL app, or any native operating system tool. Even emacs.
 
-6. Look back in Github Desktop, you should see the NAME file changed.
+6. Look back in Github Desktop, you should see the NAME.txt file appear as a new file.
+   New files you created and will not be in github yet, and they
+   will show up with the green + symbol to the right of the file in your left pane.
    Modified files have an orange square with a circle in the middle.
-   New files you created and will not be in github
-   will show up with the green + symbol to the right of the file in your left pane. 
-   
-   Fill out a small description in the bottom left part. This is important to keep track of why/what you
-   committed this change, for your future self and your collaborators.
-   Go ahead and **commit to main** so it can be ready to push to github.
+
+   So, select the new NAME.txt, and fill out a small description in
+   the bottom left part. This is important to keep track of why/what
+   you committed this change, for your future self and your
+   collaborators.  Go ahead and **commit to main** so it can be ready
+   to push to github.
 
 7. You now will see an option to push this change via a blue button in the right pane. **Push origin** it
-   will say. Go ahead and push this to github now.
+   will say. Go ahead and push this to github.
 
 8. For new files, for example in your Lab1 folder, the same story, except new files will have a green square with
    a green + symbol inside.   Only add the files that your grader needs to see. All other files will stay private on
-   your laptop.
+   your laptop. This will just be the ipynb (notebook) file and the html file.  No zip file needed.
 
 9. (optional) Create a public README.md file in your own github.com/yourname/yourname repository.
    For example look at my barebones one   https://github.com/teuben/teuben/   but there are many
    better examples online.
-
-
 
 ## Authentication (advanced)
 
