@@ -122,6 +122,13 @@ Copy and paste the contents of your ~/.ssh/ed....pub file into the online field
 
 There could be more here on how keys are generated with **ssh-keygen** and **ssh-copy-id**
 
+### 3. Personal Access Token (PAT)
+
+Settings > Developer settings > Personal access tokens    -or-    https://github.com/settings/personal-access-tokens
+
+
+https://github.com/settings/security
+
 ## Upstream Merge (advanced)
 
 If the upstream (the repo you forked from) was updated, you can merge them into your repo. Of course
